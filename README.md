@@ -4,13 +4,19 @@
 ####한신대학교 AISW학과 이유진입니다.
 
 
-## 👋 I'm Lee Yu-jin
+# 07_YUJIN_ARCHIVE
 
-| Category | Details |
-| :--- | :--- |
-| **Age** | 2007 |
-| **Like** | 🍿 Movie / 🐈 Cat |
-| **Github** | Working on something new |
+## 📌 Profile
+- **Name:** 이유진
+- **Birth:** 2007
+- **Interest:** 🎬 Movie, 🐈 Cat, 🍝 Pasta, 🔎 Mystery
 
 ---
-> 영화 보고 고양이 구경하는 게 일상.
+
+## 🎬 Cinema & Book
+- **Movies:** 국내/해외 영화 가리지 않고 시청
+- **Books:** 추리 및 미스터리 소설 선호
+
+## 🍽 Favorite
+- **Food:** 파스타
+- **Animal:** 고양이
