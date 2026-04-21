@@ -1,16 +1,16 @@
-## Hi there 👋
+#한신대학교 AISW학과 이유진입니다.
+##한신대학교 AISW학과 이유진입니다.
+###한신대학교 AISW학과 이유진입니다.
+####한신대학교 AISW학과 이유진입니다.
 
-<!--
-**leeyujin27/leeyujin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 I'm Lee Yu-jin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Details |
+| :--- | :--- |
+| **Age** | 2007 |
+| **Like** | 🍿 Movie / 🐈 Cat |
+| **Github** | Working on something new |
+
+---
+> 영화 보고 고양이 구경하는 게 일상.
