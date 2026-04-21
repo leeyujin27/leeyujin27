@@ -35,8 +35,4 @@
 
 ---
 
-### 📊 Github Stats
-![Yu-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=radical)
-
----
 
