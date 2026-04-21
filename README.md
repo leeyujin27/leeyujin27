@@ -15,7 +15,7 @@
 ### 🌐 Language Skills
 - **Korean:** Native
 - **English:** Fluent / Professional
-- **Chinese:** Conversational (HSK 등급이 있다면 여기에 작성)
+- **Chinese:** Conversational 
 
 ---
 
